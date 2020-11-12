@@ -17,7 +17,7 @@ This analysis also helps the real estate company identify and invest in underval
 ## Appendix for Files
 * Data Cleaning: <a href="https://github.com/linhmai19/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
 
-* EDA and modeling: <a href="https://github.com/linhmai19/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/KC_analysis.ipynb ">KC_analysis.ipynb</a>
+* EDA and modeling: <a href="https://github.com/linhmai19/kc_house_market_linear_regression/blob/master/KC_analysis_modification.ipynb">KC_analysis_modification.ipynb</a>
 
 ## Dataset:
 * Raw data: kc_house_data.csv
