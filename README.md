@@ -15,7 +15,7 @@ This analysis also helps the real estate company identify and invest in underval
 * Out of 19 given factors, which factors are most important and influent on King County house prices?
 
 ## Appendix for Files
-* Data Cleaning: <a href="https://github.com/linhmai19/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
+* Data Cleaning: <a href="https://github.com/linhmai19/kc_house_market_linear_regression/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
 
 * EDA and modeling: <a href="https://github.com/linhmai19/kc_house_market_linear_regression/blob/master/KC_analysis_modification.ipynb">KC_analysis_modification.ipynb</a>
 
@@ -30,10 +30,10 @@ kc_presentation.pdf
 
 ## Walkthrough Video
 
-<a href="https://github.com/linhmai19/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/kc_oral_presentation.mp4">Oral Presentation</a>
+<a href="https://github.com/linhmai19/kc_house_market_linear_regression/blob/master/kc_oral_presentation.mp4">Oral Presentation</a>
 
 ## Blog post
 
-<a href="https://linhmai19.github.io/king_county_house_sale_market">King County House Sale Market</a>
+<a href="https://linhnp-mai.medium.com/washingtons-king-county-house-sale-market-19fbc09704b9">King County House Sale Market</a>
 
 
